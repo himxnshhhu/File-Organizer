@@ -21,3 +21,5 @@ How It Works:
 4.Creates folders for each category if not present.
 5.Moves files into their respective folders.
 6.Handles duplicate file names by renaming them uniquely.
+
+NOTE: YOU CAN DOWNLOAD THE APP UNDER "RELEASES" SECTION.
