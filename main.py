@@ -93,7 +93,7 @@ class App(tk.Tk):
         top = tk.Frame(self, bg=BG, padx=20, pady=14)
         top.pack(fill="x")
 
-        tk.Label(top, text="Smart File Organizer",
+        tk.Label(top, text="File Organizer",
                  bg=BG, fg=TEXT, font=("Courier New", 17, "bold")).pack(side="left")
         tk.Label(top, text=" v4.0", bg=BG, fg=TEXT3,
                  font=("Courier New", 11)).pack(side="left", pady=3)
